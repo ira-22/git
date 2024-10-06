@@ -1,4 +1,4 @@
-[<Назад](./readme.md "тык")
+[<Назад](./readme.md)
 
 Copyright 2024 kotobus
 
