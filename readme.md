@@ -13,6 +13,7 @@
 7. [Удаленный репозиторий](/deletedrep.md)
 8. [Терминология](/terminology.md)
 9. [Шпаргалка по основным командам](/notes.md)
+
 ---
 
  LICENSE: [MIT](/license.md)
